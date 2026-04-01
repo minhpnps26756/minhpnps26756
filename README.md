@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phạm Ngọc Minh</h1>
-<h3 align="center">Frontend Developer | Backend Learner</h3>
+<h3 align="center">Frontend Developer & Backend </h3>
 
 ---
 
